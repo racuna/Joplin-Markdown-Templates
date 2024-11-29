@@ -3,6 +3,8 @@
 ## 🕒 Fecha y Hora
 - Fecha: {{fecha}}
 - Hora: {{hora}}
+- Cliente: {{cliente}}
+- Proyecto (si aplica): {{proyecto}}
 
 ## 📋 Agenda
 1. {{Punto 1}}
@@ -10,8 +12,13 @@
 3. {{Punto 3}}
 
 ## 🗣️ Participantes
+### Neuronet:
 - {{Nombre 1}}
 - {{Nombre 2}}
+
+### CLiente:
+- {{Nombre 3}}
+- {{Nombre 4}}
 
 ## 📌 Notas
 - {{Nota 1}}
